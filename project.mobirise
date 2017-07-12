@@ -12,9 +12,9 @@
         "infoColor": "#7e9b9f",
         "warningColor": "#1f9f0d",
         "dangerColor": "#f28281",
-        "titleFont": "Montserrat",
-        "subtitleFont": "Lora",
-        "textFont": "PT Sans",
+        "titleFont": "Open Sans",
+        "subtitleFont": "Open Sans",
+        "textFont": "Oswald",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true,
@@ -155,6 +155,11 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          },
           "_anchor": "header1-w",
           "_params": {
             "parallax": true,
@@ -176,13 +181,8 @@
             "showButtons": false
           },
           "title": "กระทืบคน.",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "60px"
-            }
-          }
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"<b>รับจ้างซ้อมคน</b> <b>รับจ้างตบคน</b> และ<b>รับจ้างยิงคนโดยมือปืน(hitman)</b> \" รับงานในเขตกรุงเทพฯและจังหวัดอื่น ๆ ในประเทศไทย.ทำงานโดยมืออาชีพ รับประกันความปลอดภัยของการจ้างงาน (ไม่ซัดทอดหรือพาดพิง) ทำงานตรงเวลามีสัจจะเชื่อถือได้ \" หาคนรับจ้างตบคน <b>Line id : mupuen </b>\"",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_inherit": "features1",
@@ -190,6 +190,11 @@
             "Theme"
           ],
           "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
           "_anchor": "features2-y",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -226,7 +231,7 @@
           },
           "title1": "Bootstrap 4",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "นอกจากจะ<b>รับจ้างกระทืบคน กทม</b>,\" แล้วยัง<b>รับจ้างกระทืบคน ชลบุรี</b>.<b>รับจ้างกระทืบคน นนทบุรี</b> <b>รับจ้างกระทืบคน อยุธยา</b> <b>รับจ้างกระทืบคนเชียงใหม่</b>หรือจังหวัดอื่นๆ \"",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -244,12 +249,14 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
               "name": "pencil",
+              "family": "et-line",
+              "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "size": "",
+              "newWindow": false
             }
           },
           "title3": "Web Fonts",
@@ -297,12 +304,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
@@ -445,7 +447,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
           "text": "<b>รับจ้างกระทืบคน กทม.รับจ้างซ้อมคนทั่วประเทศไทย.</b>",
-          "title": "PRE MADE BLOCKS"
+          "title": "Line id : mupuen"
         }
       ]
     },
@@ -713,22 +715,22 @@
               "font-family": "'PT Serif', serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#010101"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#131313!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#1b1b1b"
             },
             ".bg-color.transparent .link": {
               "color": "#f70707",
@@ -741,7 +743,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#7e9b9f!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
