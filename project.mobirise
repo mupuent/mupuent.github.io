@@ -193,6 +193,9 @@
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
               "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#000000"
             }
           },
           "_anchor": "features2-y",
@@ -221,31 +224,35 @@
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features2",
-              "name": "desktop",
-              "link": "https://mobirise.com",
+              "linkInNewWindow": false,
+              "name": "touch-swipe",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://www.mupuen.com/",
               "size": 0,
-              "family": "et-line"
+              "newWindow": false
             }
           },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
+          "title1": "เว็บไซต์หลัก กระทืบคน",
+          "subtitle1": "<b>www.mupuen.com</b>",
           "caption1": "นอกจากจะ<b>รับจ้างกระทืบคน กทม</b>,\" แล้วยัง<b>รับจ้างกระทืบคน ชลบุรี</b>.<b>รับจ้างกระทืบคน นนทบุรี</b> <b>รับจ้างกระทืบคน อยุธยา</b> <b>รับจ้างกระทืบคนเชียงใหม่</b>หรือจังหวัดอื่นๆ \"",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features2",
-              "name": "mobile",
-              "link": "https://mobirise.com",
+              "linkInNewWindow": false,
+              "name": "line",
+              "family": "socicon",
+              "active": true,
+              "link": "http://line.me/ti/p/_vq388r0Pq",
               "size": 0,
-              "family": "et-line"
+              "newWindow": false
             }
           },
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title2": "Line id : mupuen",
+          "subtitle2": "<b>สำหรับติดต่องานกับ มือปืนรับจ้าง</b>",
+          "caption2": "<b>สร้างขึ้นมาเพื่อวัตถุประสงค์ ให้บริการ/รับจ้างงานประเภท ความรุนแรงทำร้ายร่างกายคน ฆ่าคน/เก็บคน/กระทืบคน/ตบคน/ซ้อมคน หรืองานที่ต้องเกี่ยวข้องกับ นักเลง/ผู้มีอิทธิพล/มาเฟีย..</b>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {

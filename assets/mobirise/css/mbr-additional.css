@@ -495,6 +495,9 @@ h6,
 #features2-y .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
+#features2-y .mbr-cards-col:nth-child(even) .card-title {
+  color: #000000;
+}
 #menu-7 .hide-buttons .nav-btn {
   display: none !important;
 }
