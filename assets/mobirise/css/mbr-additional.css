@@ -488,6 +488,9 @@ h6,
   background-color: #f70707;
 }
 
+#header1-w .mbr-section-title {
+  font-size: 60px;
+}
 #menu-7 .hide-buttons .nav-btn {
   display: none !important;
 }
