@@ -491,6 +491,9 @@ h6,
 #header1-w .mbr-section-title {
   font-size: 60px;
 }
+#features2-y .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
 #menu-7 .hide-buttons .nav-btn {
   display: none !important;
 }
