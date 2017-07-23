@@ -45,7 +45,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "17px"
             },
             ".navbar-toggler": {
               "color": "#f70707"
@@ -56,22 +57,22 @@
               "font-family": "'PT Serif', serif"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#010101"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#131313!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#1b1b1b"
             },
             ".bg-color.transparent .link": {
               "color": "#f70707",
@@ -84,7 +85,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#7e9b9f!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -139,7 +140,7 @@
               "newWindow": false
             }
           },
-          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"รับจ้างฆ่าคน-รับจ้างกระทืบคน-มือปืนรับจ้าง\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">ซุ้มมือปืน</a>",
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"รับจ้างฆ่าคน-รับจ้างกระทืบคน-มือปืนรับจ้าง\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">รับจ้างฆ่าคน-รับจ้างกระทืบคน-มือปืนรับจ้าง</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"รับจ้างกระทืบคน.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>รับจ้างกระทืบคน</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"รับจ้างฆ่าคน.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>รับจ้างฆ่าคน</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ติดต่อมือปืน.html\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>ติดต่อจ้างงาน</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
@@ -147,7 +148,8 @@
     "รับจ้างกระทืบคน.html": {
       "settings": {
         "title": "รับจ้างกระทืบคน-รับจ้างซ้อมคน|ซุ้มมือ mupuen|กรุงเทพ,ประเทศไทย",
-        "meta_descr": " รับจ้างกระทืบคนโดยมือปืนรับงานในพื้นที่ กทม,และต่างจังหวัด รวดเร็วงานไว้และไม่ซัดทอดคนจ้าง โดยgunman จ้างมือปืนดีที่สุด กรุงเทพ,ประเทศไทย"
+        "meta_descr": " รับจ้างกระทืบคนโดยมือปืนรับงานในพื้นที่ กทม,และต่างจังหวัด รวดเร็วงานไว้และไม่ซัดทอดคนจ้าง โดยgunman จ้างมือปืนดีที่สุด กรุงเทพ,ประเทศไทย",
+        "order": 3
       },
       "components": [
         {
@@ -319,7 +321,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "17px"
             },
             ".navbar-toggler": {
               "color": "#f70707"
@@ -406,7 +409,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"รับจ้างฆ่าคน-รับจ้างกระทืบคน-มือปืนรับจ้าง\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">ซุ้มมือปืน</a>",
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"รับจ้างฆ่าคน-รับจ้างกระทืบคน-มือปืนรับจ้าง\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">รับจ้างฆ่าคน-รับจ้างกระทืบคน-มือปืนรับจ้าง</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"รับจ้างกระทืบคน.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>รับจ้างกระทืบคน</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"รับจ้างฆ่าคน.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>รับจ้างฆ่าคน</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ติดต่อมือปืน.html\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>ติดต่อจ้างงาน</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -461,7 +464,8 @@
     "ติดต่อมือปืน.html": {
       "settings": {
         "title": "ติดต่อมือปืน จ้างฆ่าคน,กระทืบคน|ซุ้มมือปืน mupuen| Line id mupuen",
-        "meta_descr": "ติดต่องานหามือปืน จ้างมือปืนฆ่าคนและงานกระทืบคนหรือติดต่องานกับมือปืนดีที่สุดได้ที่นี่ ซุ้มmupuen (Line id : mupuen) กรุงเทพ ,ไทย"
+        "meta_descr": "ติดต่องานหามือปืน จ้างมือปืนฆ่าคนและงานกระทืบคนหรือติดต่องานกับมือปืนดีที่สุดได้ที่นี่ ซุ้มmupuen (Line id : mupuen) กรุงเทพ ,ไทย",
+        "order": 4
       },
       "components": [
         {
@@ -470,7 +474,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "17px"
             },
             ".navbar-toggler": {
               "color": "#f70707"
@@ -481,22 +486,22 @@
               "font-family": "'PT Serif', serif"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#010101"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#131313!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#1b1b1b"
             },
             ".bg-color.transparent .link": {
               "color": "#f70707",
@@ -509,7 +514,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#7e9b9f!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -557,7 +562,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"รับจ้างฆ่าคน-รับจ้างกระทืบคน-มือปืนรับจ้าง\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">ซุ้มมือปืน</a>",
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"รับจ้างฆ่าคน-รับจ้างกระทืบคน-มือปืนรับจ้าง\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">รับจ้างฆ่าคน-รับจ้างกระทืบคน-มือปืนรับจ้าง</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"รับจ้างกระทืบคน.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>รับจ้างกระทืบคน</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"รับจ้างฆ่าคน.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>รับจ้างฆ่าคน</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ติดต่อมือปืน.html\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>ติดต่อจ้างงาน</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -711,7 +716,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "20px"
+              "font-size": "17px"
             },
             ".navbar-toggler": {
               "color": "#f70707"
@@ -798,7 +803,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"รับจ้างฆ่าคน-รับจ้างกระทืบคน-มือปืนรับจ้าง\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">ซุ้มมือปืน</a>",
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"รับจ้างฆ่าคน-รับจ้างกระทืบคน-มือปืนรับจ้าง\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">รับจ้างฆ่าคน-รับจ้างกระทืบคน-มือปืนรับจ้าง</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"รับจ้างกระทืบคน.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>รับจ้างกระทืบคน</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"รับจ้างฆ่าคน.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>รับจ้างฆ่าคน</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ติดต่อมือปืน.html\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>ติดต่อจ้างงาน</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
